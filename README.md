@@ -1,5 +1,6 @@
 <h1>Desenvolvedora Front-End em formação</h1>
 <p>(README em desenvolvimento)</p>
+<p>(Sobre mim)</p>
 <h2>Habilidades em:</h2>
 <div>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
